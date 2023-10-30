@@ -1,10 +1,9 @@
 # STATUARY WARNING:
-This application is for system testing, it creates a background daemon in the system. A remote machine interacts with the daemon to expoit the system.
-After testing, the daemon must be killed. It leaves a attack surface which can be exploitted.
+This application creates a background daemon in the system for testing purposes. The daemon is then interacted with by a remote machine to exploit the system. After testing, the daemon must be killed. However, it leaves behind an attack surface that can be exploited.
 
 
 # TBShell
-'tbshell' is a basic talk back shell, purpose of this is to test a Linux based system for for it's robust security.
+'tbshell' is a basic talk back shell, purpose of this is to test a Linux based system for it's robust security.
 
 
 # How To Build?
