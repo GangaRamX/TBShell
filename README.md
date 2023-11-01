@@ -1,5 +1,5 @@
 # STATUARY WARNING:
-This application creates a background daemon in the system for testing purposes. The daemon is then interacted with by a remote machine to exploit the system. After testing, the daemon must be killed. However, it leaves behind an attack surface that can be exploited.
+This application creates a background daemon in the system for testing purposes. The daemon is then use by a remote machine to exploit the system. After testing, the daemon must be killed. However, it leaves behind an attack surface that can be exploited.
 
 
 # TBShell
